@@ -1,0 +1,14 @@
+name,tge_year,narrative,type,inst_ico,comm_ico,listing_price,inst_vesting_perc,pub_vesting_perc,cex_1,cex_2,cex_3,x_comm,hr1_high,hr1_low,hr2_high,hr2_low,hr3_high,hr3_low
+COOKIE,2024,ai,alt,1,0,0.1135,2,12.5,bybit,mexc,kucoin,200000,0.1677,0.0962,0.2232,0.0756,0.1865,0.0567
+BUBBLE,2024,Social,Alt,1,1,0.02,18.5,30,bybit,bitget,HTX,750000,0.1052,0.01523,0.1125,0.0105,0.0125,0.0098
+MON,2024,Gaming,Alt,0,1,0.39,0,30,BingX,BTSE,Weex,297570,0.6863,0.475,0.5424,0.4758,0.4456,0.4225
+CLOUD,2024,DeFi,Alt,1,1,0.32,13,30,Bybit,Kraken,OKX,171640,0.3046,0.2901,0.2928,0.2901,0.3032,0.2903
+ADA,2017,Blockchain,Alt,1,0,0.2,51.61,0,Binance,OKX,Bybit,8950,0.0271,0.02602,0.1289,0.1202,0.4802,0.3256
+POLKADOT,2020,Blockchain,Alt,1,1,88.45,58.4,11.6,Binance,Bybit,Kraken,1040000,4.48,2.9,5.24,4.17,4.69,4.13
+RETIK,2024,DeFi,DeFi,1,0,0.15,100,0,BingX,Bitmark,P2B,50600,2.23,1.2,1.86,1.56,2.21,1.93
+FIL,2017,Storage,Alt,1,1,11.47,8,55,Coinbase,Binance,Gate.io,664106,61.04,32.71,32.56,26.81,29.93,27.65
+NEO,2016,Blockchain,Alt,1,0,0.18,40,0,Upbit,HTX,KuCoin,1040000,0.55,0.2,0.14,0.12,0.16,0.125
+ALIAS,2020,Blockchain,Alt,1,0,0.02865,100,0,SouthXchange,StakeCube,FrieExchange,3538,0.026,0.012,0.047,0.032,0.026,0.016
+ARK,2016,Alt,Alt,1,0,0.38,49.65,0,Binance,Upbit,BingX,74900,0.074,0.033,0.4,0.3,0.8,20
+STRAX,2016,Nodes,Alt,1,0,0.01,49,0,Binance,Upbit,Bitget,215340,0.023,0.011,0.074,0.05,0.076,0.045
+CMPS,2024,gaming,alt,1,0,0.015,20,0,mexc,none,none,130000,0.0127,0.011,0.0123,0.0112,0.0128,0.0102
